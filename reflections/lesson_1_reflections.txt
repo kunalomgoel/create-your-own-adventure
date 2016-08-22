@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I would not have been able to see the bug in a longer document had I not been able to compare the two files through an automated process. It also would save me time with relatively shorter files as well, so diff is definitely an asset.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can see how your mistakes change and get corrected over time, and you will likely notice which mistakes are more common than others, cause you to subconsciously correct for those mistakes in later iterations and projects. Ultimately, this will allow you to reflect (meta) on how much you have improved.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+As mentioned by the instructors, manually choosing to commit means that you have logical stopping points to create versions with some purpose, and you likely have versions that will run correctly. On the other hand, you may commit to little or to largely, and it could be tedious and annoying to figure out what the changes you are searching for are.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+How might using version control make you more confident to make changes that could break something?
+
+It may make you more confident because you know you have a version backed up that definitely does work, so you can tinker around with new versions and then revert back to an older one if it doesn't work.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git to better manage my programs and apps that I develop on my computer, as well as to understand what other people are doing when I view their github pages, or they use git syntax like "Forking". I also want to be able to showcase my work on github.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Because you can commit one file at a time, it is easy to make sure that you only commit the files necessary for the logical change.
+
+#What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you create a compeltely new concept out of the design/project you are currently working on. Branches would help because if you still want to keep the original project, now you can work on them both separately.
