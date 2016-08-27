@@ -1,1 +1,0 @@
-We have the questions. Now we need to find the answers. Look to the universe.
